@@ -14,3 +14,6 @@ Ou seja, todos os bancos relacionais e não-relacionais, tabelas e afins podem s
 
 <img width="804" height="389" alt="image" src="https://github.com/user-attachments/assets/cf9c9910-d3d5-400d-bff4-31616a0eb617" />
 
+existem quatro propriedades fundamentais que definem os bancos de dados relacionais, que são as propriedades ACID (Atomicidade, Consistência, Isolamento e Durabilidade).
+
+
