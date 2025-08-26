@@ -16,4 +16,8 @@ Ou seja, todos os bancos relacionais e não-relacionais, tabelas e afins podem s
 
 existem quatro propriedades fundamentais que definem os bancos de dados relacionais, que são as propriedades ACID (Atomicidade, Consistência, Isolamento e Durabilidade).
 
+Os bancos não relacionais NoSQL (Not Only SQL) surgem a partir da necessidade de lidar com um grande volume de dados que devem ser armazenados.
+
+
+
 
