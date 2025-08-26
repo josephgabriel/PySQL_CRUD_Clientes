@@ -18,6 +18,8 @@ existem quatro propriedades fundamentais que definem os bancos de dados relacion
 
 Os bancos não relacionais NoSQL (Not Only SQL) surgem a partir da necessidade de lidar com um grande volume de dados que devem ser armazenados.
 
+ importante não confundir tipos de arquivos que representam dados estruturados e não estruturados, perceba que quando falamos de dados estruturados, pensamos logo em estruturas fixas, todos os arquivos que não alteram sua estrutura com do passar do tempo são exemplos de dados estruturados.
+
 
 
 
