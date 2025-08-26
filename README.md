@@ -4,3 +4,5 @@ Para analistas e cientistas de dados, que atuam com análise, tratamento e gera�
 para um analista de dados ativo, um forte entendimento do SQL é extremamente importante.
 
 Saber usar Python e SQL juntos lhe dará ainda mais vantagens quando se trata de trabalhar com seus dados.
+
+Django é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view. Foi criado originalmente como sistema para gerenciar um site jornalístico na cidade de Lawrence, no Kansas. Tornou-se um projeto de código aberto e foi publicado sob a licença BSD em 2005. Wikipédia
