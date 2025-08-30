@@ -1,30 +1,20 @@
-# PythonProject
-Neste projeto, será utilizado a biblioteca SQLite, e faremos a conexão dessa biblioteca com o banco de dados por meio da linguagem Python.
+Este projeto consiste em uma aplicação Python com interface gráfica construída em Tkinter que permite gerenciar um banco de dados de clientes. O sistema permite inserir, visualizar, atualizar, buscar e deletar registros de clientes armazenados em um banco SQLite.
 
-também  será utilizada outra biblioteca para o nosso contexto que é a Pandas (biblioteca Python para análise de dados), uma das mais importantes desta linguagem.
+**⚡FUNCIONALIDADES**
+Inserir Cliente: Adicionar novos clientes com informações de nome, sobrenome, e-mail e CPF.
+Visualizar Todos: Exibir todos os clientes cadastrados em uma lista.
+Buscar Cliente: Filtrar clientes por qualquer um dos campos disponíveis.
+Atualizar Cliente: Modificar informações de um cliente existente selecionado na lista.
+Deletar Cliente: Remover um cliente selecionado da base de dados.
+Interface Intuitiva: Grid organizado com botões, campos de entrada e listbox com scrollbar.
 
-As duas tecnologias (Python e Pandas) são amplamente utilizadas quando trabalhamos com a manipulação de grandes estruturas de dados.
-Para analistas e cientistas de dados, que atuam com análise, tratamento e geração de insights através dos dados, onde realizam estratégias inteligentes, o Python tem muitas vantagens, uma enorme variedade de bibliotecas de código aberto que o torna uma ferramenta incrivelmente útil para analistas de dados e desenvolvedores.
+**🗃️ ESTRUTURA DO PROJETO**
+GUI.py: Define a interface com Tkinter, incluindo Labels, Entry, Listbox, Scrollbar e Botões.
+backend.py: Gerencia toda a lógica de banco de dados usando SQLite. Contém funções para criar a tabela, inserir, buscar, atualizar e deletar registros.
+main.py: Conecta a GUI com as funções do backend e gerencia eventos de clique e seleção de itens na interface.
 
-**Python e SQL:**
-para um analista de dados ativo, um forte entendimento do SQL é extremamente importante.
-Saber usar Python e SQL juntos lhe dará ainda mais vantagens quando se trata de trabalhar com seus dados.
-
-**Django:**
-Django é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view. Foi criado originalmente como sistema para gerenciar um site jornalístico na cidade de Lawrence, no Kansas. Tornou-se um projeto de código aberto e foi publicado sob a licença BSD em 2005. 
-
-**Banco de dados:**
-Em uma definição genérica, chamamos de banco de dados qualquer entidade capaz de coletar e organizar arquivos de dados. (nield, 2016).
-Ou seja, todos os bancos relacionais e não-relacionais, tabelas e afins podem ser considerados banco de dados.
-
-<img width="804" height="389" alt="image" src="https://github.com/user-attachments/assets/cf9c9910-d3d5-400d-bff4-31616a0eb617" />
-
-existem quatro propriedades fundamentais que definem os bancos de dados relacionais, que são as propriedades ACID (Atomicidade, Consistência, Isolamento e Durabilidade).
-
-Os bancos não relacionais NoSQL (Not Only SQL) surgem a partir da necessidade de lidar com um grande volume de dados que devem ser armazenados.
-
- importante não confundir tipos de arquivos que representam dados estruturados e não estruturados, perceba que quando falamos de dados estruturados, pensamos logo em estruturas fixas, todos os arquivos que não alteram sua estrutura com do passar do tempo são exemplos de dados estruturados.
-
-
-
-
+**💻 TECNOLOGIAS UTILIZADAS**
+Python 3.12+
+Tkinter: Interface gráfica
+SQLite3: Banco de dados relacional leve
+Pandas: (opcional, caso queira importar/exportar CSV futuramente)
