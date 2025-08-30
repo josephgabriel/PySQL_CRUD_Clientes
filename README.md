@@ -27,3 +27,6 @@ Tkinter: Interface gráfica
 SQLite3: Banco de dados relacional leve
 
 Pandas: (opcional, caso queira importar/exportar CSV futuramente)
+
+<img width="718" height="413" alt="image" src="https://github.com/user-attachments/assets/6e1aa8a6-fa5e-4771-8863-042982108e89" />
+
